@@ -1,0 +1,14 @@
+# Project exclude paths
+/api/target/
+/api/target/scala-2.12/classes/
+/api/target/scala-2.12/test-classes/
+/boot/target/
+/boot/target/scala-2.12/classes/
+/boot/target/scala-2.12/test-classes/
+/project/project/target/
+/project/target/
+/service/target/
+/service/target/scala-2.12/classes/
+/service/target/scala-2.12/test-classes/
+/target/
+/target/streams/

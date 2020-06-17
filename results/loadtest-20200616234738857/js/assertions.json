@@ -1,0 +1,10 @@
+{
+  "simulation": "LoadTest",
+  "simulationId": "loadtest",
+  "start": 1592351258857,
+  "description": "",
+  "scenarios": ["With throttle"],
+  "assertions": [
+
+  ]
+}

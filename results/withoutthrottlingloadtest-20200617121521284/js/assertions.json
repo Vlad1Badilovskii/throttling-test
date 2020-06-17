@@ -1,0 +1,10 @@
+{
+  "simulation": "WithoutThrottlingLoadTest",
+  "simulationId": "withoutthrottlingloadtest",
+  "start": 1592396121284,
+  "description": "",
+  "scenarios": ["No throttle"],
+  "assertions": [
+
+  ]
+}

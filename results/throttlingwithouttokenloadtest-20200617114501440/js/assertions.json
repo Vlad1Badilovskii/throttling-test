@@ -1,0 +1,10 @@
+{
+  "simulation": "ThrottlingWithoutTokenLoadTest",
+  "simulationId": "throttlingwithouttokenloadtest",
+  "start": 1592394301440,
+  "description": "",
+  "scenarios": ["Throttling"],
+  "assertions": [
+
+  ]
+}
